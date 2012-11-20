@@ -1,6 +1,6 @@
 Description
 ===================
-This theme is designed as a simpler, paired down administration theme for the Pancake App back end that also includes a matching front end theme.
+This theme is designed as a simpler, paired down administration theme for the Pancake App 3.x back end that also includes a matching front end theme.
 
 Installation Instructions
 ===================
