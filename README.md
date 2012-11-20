@@ -1,6 +1,6 @@
 Description
 ===================
-I just cleaned up the base administration theme: cleaned up some of the presentation, made it wider, and tweaked some of the jQuery UI css. I imagine it isn't error free, so feel free to modify for your particular situation.
+This theme is designed as a simpler, paired down administration theme for the Pancake App back end that also includes a matching front end theme.
 
 Installation Instructions
 ===================
