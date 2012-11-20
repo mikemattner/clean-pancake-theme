@@ -1,0 +1,75 @@
+.icon {
+	margin: 0 5px 0px 0px;
+	height:27px;
+	width:25px;
+	display:block;
+	float:left;
+	text-indent:-9999px !important;
+}
+
+.view {	
+	background:url('../img/icons-admin-sprite.png') -314px 10px no-repeat;
+}
+.view:hover {	
+	background:url('../img/icons-admin-sprite.png') -314px -19px no-repeat;
+}
+.view:active {	
+	background:url('../img/icons-admin-sprite.png') -314px -48px no-repeat;
+}
+
+.mail {	
+	background:url('../img/icons-admin-sprite.png') -228px 8px no-repeat;
+}
+.mail:hover {	
+	background:url('../img/icons-admin-sprite.png') -228px -21px no-repeat;
+}
+.mail:active {	
+	background:url('../img/icons-admin-sprite.png') -228px -50px no-repeat;
+}
+
+.edit {	
+	background:url('../img/icons-admin-sprite.png') -341px 0px no-repeat;
+}
+.edit:hover {	
+	background:url('../img/icons-admin-sprite.png') -341px -29px no-repeat;
+}
+.edit:active {	
+	background:url('../img/icons-admin-sprite.png') -341px -57px no-repeat;
+}
+
+.delete {	
+	background:url('../img/icons-admin-sprite.png') -56px 1px no-repeat;
+}
+.delete:hover {	
+	background:url('../img/icons-admin-sprite.png') -56px -28px no-repeat;
+}
+.delete:active {	
+	background:url('../img/icons-admin-sprite.png') -56px -57px no-repeat;
+}
+
+
+.sort {	
+	background:url('../img/icons-admin-sprite.png') -285px 1px no-repeat;
+}
+.sort:hover {	
+	background:url('../img/icons-admin-sprite.png') -285px -28px no-repeat;
+}
+.sort:active {	
+	background:url('../img/icons-admin-sprite.png') -285px -57px no-repeat;
+}
+
+.gears {background:url('../img/icons-admin-sprite.png') -399px 1px no-repeat;}
+.more-actions:hover .gears, .gears:hover {background:white url('../img/icons-admin-sprite.png') -399px -28px no-repeat;}
+.more-actions .partial-payment-details span {text-align:left;}
+.gears:active {background:white url('../img/icons-admin-sprite.png') -399px -56px no-repeat;}
+
+.more-actions ul {display:none !important;}
+.more-actions:hover ul {display:block !important;}
+.more-actions:last ul {display:block !important;}
+.more-actions ul {position:absolute; z-index:10000; top: 37px; left: 0; border: 1px solid #dedede;min-width:200px; background: white;}
+.more-actions {position:relative;float:left;}
+.more-actions ul a {padding: 16px !important; display: block;color: #666;margin:0 !important;}
+.more-actions ul a:hover {text-decoration:none; color:#000;}
+.more-actions .gear {position:absolute;padding-left:4px;padding-top:4px;padding-bottom:8px;border:1px solid transparent;border-bottom:0;width:30px;}
+.more-actions:hover .gear {background:white;border: 1px solid #dedede;border-bottom:0;}
+.more-actions .gear.top-menu {border-bottom: 1px solid #dedede !important; padding-bottom: 5px !important;}
